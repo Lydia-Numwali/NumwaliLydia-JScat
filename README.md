@@ -1,2 +1,2 @@
 # NumwaliLydia-JScat
-JS practical exam to create RESTFUL APIs.
+JS practical exam to build RESTFUL APIs.
